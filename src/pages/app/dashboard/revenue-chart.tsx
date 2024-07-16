@@ -1,5 +1,5 @@
 import { Line, LineChart, ResponsiveContainer, XAxis, YAxis } from "recharts";
-import colors from "tailwindcss/colors";
+import * as colors from "tailwindcss/colors";
 
 import {
   Card,
